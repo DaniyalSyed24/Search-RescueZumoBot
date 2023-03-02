@@ -60,6 +60,11 @@ To use the GUI, go to the GUI folder and run the two .pde files. Remember, in or
 * Turn right when in a corner ('r')
 * Turn 180 when in a corner ('t')
 
+# References
+
+https://pololu.github.io/zumo-32u4-arduino-library/index.html
+http://arduino.cc/en/Reference/HomePage
+
 
 
 
