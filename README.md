@@ -47,7 +47,6 @@ To use the GUI, go to the GUI folder and run the two .pde files. Remember, in or
 <br/>
 
 * sound the buzzer('x')
-* 
 <br/>
 
 * partially turn left ('4')
