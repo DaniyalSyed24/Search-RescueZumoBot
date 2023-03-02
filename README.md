@@ -27,7 +27,6 @@ To set up the project, there are a number of applications and libraries that nee
 
 ## Usage
 
-
 To use the application, follow the following steps:
 * Download the project as a zip folder & open the file of the mode you want to run (mode 1, mode 2 or mode 3).
 * Connect the Zumo bot to you computer and go to tools --> boards --> Pololu a-star boards and select Pololu a-star 32U4.
@@ -36,9 +35,31 @@ To use the application, follow the following steps:
 
 Mode 1 and 2 can be controlled through the Serial Monitor in Arduino IDE or from from the GUI in Processing.
 
-To use the GUI, go to the GUI folder and run the two .pde files.
+To use the GUI, go to the GUI folder and run the two .pde files. Remember, in order for Processing to work, you must close Arduino IDE before running it!
 
-Remember, in order for Processing to work, you must close Arduino IDE before running it!
+## Controls
+
+### Mode 1:
+* Turn left ('q')
+* turn right ('d')
+* go forwards ('z')
+* reverse ('s')
+<br/>
+
+* sound the buzzer('x')
+* 
+<br/>
+
+* partially turn left ('4')
+* partially turn right ('6')
+* partially go forwards ('8')
+* partially reverse ('5')
+
+### Mode 2:
+* Turn left when in a corner ('l')
+* Turn right when in a corner ('r')
+* Turn 180 when in a corner ('t')
+
 
 
 
