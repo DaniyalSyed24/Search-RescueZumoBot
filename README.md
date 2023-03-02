@@ -63,7 +63,10 @@ To use the GUI, go to the GUI folder and run the two .pde files. Remember, in or
 
 * https://pololu.github.io/zumo-32u4-arduino-library/index.html
 * http://arduino.cc/en/Reference/HomePage
-
+* https://www.pololu.com/product/2506/resources
+* https://www.pololu.com/category/7/sensors
+* https://es-lab.de/wp/wp-content/uploads/2016/09/zumo_32u4_robot.pdf
+* https://www.pololu.com/category/170/zumo-32u4-oled-robot
 
 
 
