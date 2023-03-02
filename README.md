@@ -21,8 +21,7 @@ In this final mode, the Zumo bot is fully autonomous and makes all decisions its
 To set up the project, there are a number of applications and libraries that need to be downloaded and installed first.
 
 * Arduino IDE: https://www.arduino.cc/en/software
+  * file --> preferences --> at the bottom, add "https://files.pololu.com/arduino/package_pololu_index.json" in the Additional boards managers URLs.
+  * tools --> boards --> boards manager and look for "Pololu a-star boards" and install it.
 * Processing: https://processing.org/download
 
-Once Arduino IDE is downloaded: 
-* file --> preferences --> at the bottom, add "https://files.pololu.com/arduino/package_pololu_index.json" in the Additional boards managers URLs.
-* tools --> boards --> boards manager and look for "Pololu a-star boards" and install it.
